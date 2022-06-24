@@ -47,8 +47,8 @@ ro.lmk.kill_timeout_ms=50
 ro.lmk.stall_limit_critical=40
 
 # ART
-dalvik.vm.dex2oat-filter=speed
-dalvik.vm.image-dex2oat-filter=speed
+dalvik.vm.dex2oat-filter=quicken
+dalvik.vm.image-dex2oat-filter=quicken
 
 # Media
 debug.stagefright.ccodec=1
