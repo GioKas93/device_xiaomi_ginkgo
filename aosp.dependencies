@@ -12,10 +12,10 @@
     "branch": "trece"
    },
   {
-    "remote": "github",
-    "repository": "GioKas93/hardware_xiaomi",
+    "remote": "pixelextended-devices",
+    "repository": "hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "trece"
+    "branch": "ginkgo"
   },
   {    
       "remote": "github",
