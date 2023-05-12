@@ -1,0 +1,33 @@
+[
+ {
+    "remote": "pixelextended-devices",
+    "repository": "kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo",
+    "branch": "trece"
+  },
+  {
+    "remote": "pixelextended-devices",
+    "repository": "vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo",
+    "branch": "trece"
+   },
+  {
+    "remote": "github",
+    "repository": "GioKas93/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "trece"
+  },
+  {    
+      "remote": "github",
+    "repository": "ArrowOS-Devices/android_vendor_miuicamera",
+    "target_path": "vendor/miuicamera",
+    "branch": "arrow-12.0-a3"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "varunhardgamer/trb_clang",
+    "target_path": "prebuilts/clang/host/linux-x86/trb_clang",
+    "branch": "16"
+  }
+
+]
