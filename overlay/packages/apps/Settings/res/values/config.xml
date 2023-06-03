@@ -47,4 +47,8 @@
 
     <!-- Whether memory from app_info_settings is available or not. -->
     <bool name="config_show_app_info_settings_memory">true</bool>
+
+    <!-- BLKI Maintainer --> 
+    <string name="blki_maintainer_name" translatable="false">GioKas93</string> 
+    <string name="blki_maintainer_group" translatable="false">https://t.me/pexginkowillow</string>
 </resources>
